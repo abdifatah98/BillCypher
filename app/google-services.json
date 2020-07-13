@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413700621322",
+    "firebase_url": "https://billcypher-5d5b5.firebaseio.com",
+    "project_id": "billcypher-5d5b5",
+    "storage_bucket": "billcypher-5d5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413700621322:android:ef98b0f3c969022e49cbf3",
+        "android_client_info": {
+          "package_name": "com.example.billcypher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413700621322-21itv2bbain8kd12joqeq7ifgqe5s8q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdahVl4Wnt7QvVk0huaEZofWrdIyKhCNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413700621322-21itv2bbain8kd12joqeq7ifgqe5s8q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
